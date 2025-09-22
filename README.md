@@ -28,6 +28,16 @@ Each feature has its own folder with a code file and README explaining the conce
 - [CompletableFuture](./advanced/CompletableFutureExamples/README.md)
 - [Concurrent Collections](./advanced/ConcurrentCollections/README.md)
 - [ForkJoinPool](./advanced/ForkJoinPoolExample/README.md)
+- **Locking Mechanisms**
+  - [Mutex (Synchronized, ReentrantLock)](./advanced/LockingMechanisms/Mutex/README.md)
+  - [ReentrantReadWriteLock](./advanced/LockingMechanisms/ReentrantReadWriteLock/README.md)
+  - [StampedLock](./advanced/LockingMechanisms/StampedLock/README.md)
+  - [OptimisticLocking](./advanced/LockingMechanisms/OptimisticLocking/README.md)
+  - [Semaphore](./advanced/LockingMechanisms/Semaphore/README.md)
+  - [CountDownLatch](./advanced/LockingMechanisms/CountDownLatch/README.md)
+  - [CyclicBarrier](./advanced/LockingMechanisms/CyclicBarrier/README.md)
+  - [Phaser](./advanced/LockingMechanisms/Phaser/README.md)
+  - [LockSupport](./advanced/LockingMechanisms/LockSupport/README.md)
 
 ---
 
