@@ -28,6 +28,8 @@ Each feature has its own folder with a code file and README explaining the conce
 - [CompletableFuture](./advanced/CompletableFutureExamples/README.md)
 - [Concurrent Collections](./advanced/ConcurrentCollections/README.md)
 - [ForkJoinPool](./advanced/ForkJoinPoolExample/README.md)
+- **Callbacks (Legacy Patterns)**
+  - [Synchronous & Asynchronous Callbacks](./advanced/Callbacks/README.md)
 - **Locking Mechanisms**
   - [Mutex (Synchronized, ReentrantLock)](./advanced/LockingMechanisms/Mutex/README.md)
   - [ReentrantReadWriteLock](./advanced/LockingMechanisms/ReentrantReadWriteLock/README.md)
