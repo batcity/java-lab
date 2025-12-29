@@ -17,12 +17,29 @@ Each feature has its own folder with a code file and README explaining the conce
 - [Optional](./java8/OptionalExamples/README.md)
 - [Date/Time API](./java8/DateTimeAPI/README.md)
 
-### Java 9+
+### Java 9
 - [Modules](./java9/ModuleExample/README.md)
+
+### Java 10
+- [Var](./java10-11/VarExample/README.md)
+
+### Java 11
+- [HttpClient](./java10-11/HttpClientExample/README.md)
+
+### Java 12
 - [Switch Expressions](./java12-17/SwitchExpressions/README.md)
+
+### Java 13
 - [Text Blocks](./java12-17/TextBlocks/README.md)
-- [Records](./java12-17/RecordsExample/README.md)
+
+### Java 16
+- [Records](./java12-17/RecordExample/README.md)
+
+### Java 17
 - [Sealed Classes](./java12-17/SealedClassesExample/README.md)
+
+### Java 21
+- [Virtual Threads](./java21/virtual-threads/README.md)
 
 ### Advanced / Concurrency
 - [CompletableFuture](./advanced/CompletableFutureExamples/README.md)
