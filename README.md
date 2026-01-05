@@ -58,6 +58,20 @@ Each feature has its own folder with a code file and README explaining the conce
   - [Phaser](./advanced/LockingMechanisms/Phaser/README.md)
   - [LockSupport](./advanced/LockingMechanisms/LockSupport/README.md)
 
+
+### JVM & Memory (Advanced)
+  - [JVM Memory Areas (Heap, Stack, Metaspace)](./JvmAndMemory/JVMMemory/README.md)
+  - [Java Memory Model (JMM)](./JvmAndMemory/JavaMemoryModel/README.md)
+  - [Happens-Before Relationship](./JvmAndMemory/HappensBefore/README.md)
+  - [volatile vs synchronized](./JvmAndMemory/VolatileVsSynchronized/README.md)
+  - [Garbage Collection Basics (G1, ZGC)](./JvmAndMemory/GarbageCollection/README.md)
+  - [Escape Analysis](./JvmAndMemory/EscapeAnalysis/README.md)
+  - [False Sharing](./JvmAndMemory/FalseSharing/README.md)
+
+### Core Java – Object Copying
+- [Shallow Copy](./core/ObjectCopying/ShallowCopy/README.md)
+- [Deep Copy](./core/ObjectCopying/DeepCopy/README.md)
+
 ---
 
 ## How to Use
