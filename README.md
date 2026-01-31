@@ -72,6 +72,10 @@ Each feature has its own folder with a code file and README explaining the conce
 - [Shallow Copy](./core/ObjectCopying/ShallowCopy/README.md)
 - [Deep Copy](./core/ObjectCopying/DeepCopy/README.md)
 
+### Basics:
+
+  - Anonymous classes
+
 ---
 
 ## How to Use
