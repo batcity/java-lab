@@ -76,6 +76,13 @@ Each feature has its own folder with a code file and README explaining the conce
 
   - Anonymous classes
 
+### Build Tools 
+- [Maven Basics](./maven/basics/README.md) 
+- [Dependency Management](./maven/dependencies/README.md) 
+- [Lifecycle & Goals](./maven/lifecycle/README.md) 
+- [Plugins](./maven/plugins/README.md) 
+- [Multi-module Projects](./maven/multi-module/README.md)
+
 ---
 
 ## How to Use
