@@ -6,19 +6,19 @@ Each feature has its own folder with a code file and README explaining the conce
 ## Table of Contents
 
 ### Java 7
-- [Try-with-resources](./java7/TryWithResources/README.md)
-- [Diamond Operator](./java7/DiamondOperator/README.md)
-- [Multi-catch Exceptions](./java7/MultiCatch/README.md)
-- [NIO.2 Examples](./java7/NIO2Examples/README.md)
+- [Try-with-resources](./java07/TryWithResources/README.md)
+- [Diamond Operator](./java07/DiamondOperator/README.md)
+- [Multi-catch Exceptions](./java07/MultiCatch/README.md8
+- [NIO.2 Examples](./java07/NIO2Examples/README.md)
 
 ### Java 8
-- [Lambda Expressions](./java8/LambdaExamples/README.md)
-- [Streams API](./java8/StreamExamples/README.md)
-- [Optional](./java8/OptionalExamples/README.md)
-- [Date/Time API](./java8/DateTimeAPI/README.md)
+- [Lambda Expressions](./java08/LambdaExamples/README.md)
+- [Streams API](./java08/StreamExamples/README.md)
+- [Optional](./java08/OptionalExamples/README.md)
+- [Date/Time API](./java08/DateTimeAPI/README.md)
 
 ### Java 9
-- [Modules](./java9/ModuleExample/README.md)
+- [Modules](./java09/ModuleExample/README.md)
 
 ### Java 10
 - [Var](./java10-11/VarExample/README.md)
