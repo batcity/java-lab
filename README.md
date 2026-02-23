@@ -8,7 +8,7 @@ Each feature has its own folder with a code file and README explaining the conce
 ### Java 7
 - [Try-with-resources](./java07/TryWithResources/README.md)
 - [Diamond Operator](./java07/DiamondOperator/README.md)
-- [Multi-catch Exceptions](./java07/MultiCatch/README.md8
+- [Multi-catch Exceptions](./java07/MultiCatch/README.md)
 - [NIO.2 Examples](./java07/NIO2Examples/README.md)
 
 ### Java 8
