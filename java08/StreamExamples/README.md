@@ -1,7 +1,9 @@
-# Streams API:
+# Stream API:
 
 TODO: Refine this wiki
 
-The Streams API allows devs to apply functions to a collection of items
+The Stream API allows devs to apply functions to a sequence of items
 
-TODO: Understand when/how streams api decides to process the items in parallel vs in a sequence
+Operations on streams don't change the original source stream
+
+TODO: Understand when/how stream api decides to process the items in parallel vs in a sequence
