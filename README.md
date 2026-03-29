@@ -1,6 +1,6 @@
 # Java Lab:
 
-This repo contains Java features and advanced concepts from Java 7 and above.  
+This repo contains Java features and advanced concepts.  
 Each feature has its own folder with a code file and README explaining the concept.
 
 ## Table of Contents
@@ -49,10 +49,10 @@ Each feature has its own folder with a code file and README explaining the conce
   - [Synchronous & Asynchronous Callbacks](./advanced/Callbacks/README.md)
 - **Locking Mechanisms**
   - [Mutex (Synchronized, ReentrantLock)](./advanced/LockingMechanisms/Mutex/README.md)
+  - [Semaphore](./advanced/LockingMechanisms/Semaphore/README.md)
   - [ReentrantReadWriteLock](./advanced/LockingMechanisms/ReentrantReadWriteLock/README.md)
   - [StampedLock](./advanced/LockingMechanisms/StampedLock/README.md)
   - [OptimisticLocking](./advanced/LockingMechanisms/OptimisticLocking/README.md)
-  - [Semaphore](./advanced/LockingMechanisms/Semaphore/README.md)
   - [CountDownLatch](./advanced/LockingMechanisms/CountDownLatch/README.md)
   - [CyclicBarrier](./advanced/LockingMechanisms/CyclicBarrier/README.md)
   - [Phaser](./advanced/LockingMechanisms/Phaser/README.md)
@@ -74,7 +74,7 @@ Each feature has its own folder with a code file and README explaining the conce
 
 ### Basics:
 
-  - Anonymous classes
+  - [Anonymous classes](./basics/anonymous-classes/README.md) 
 
 ### Build Tools 
 - [Maven Basics](./maven/basics/README.md) 
