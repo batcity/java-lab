@@ -75,6 +75,7 @@ Each feature has its own folder with a code file and README explaining the conce
 ### Basics:
 
   - [Anonymous classes](./basics/anonymous-classes/README.md) 
+  - [Inner Classes](./basics/inner-classes/README.md)
 
 ### Build Tools 
 - [Maven Basics](./maven/basics/README.md) 
