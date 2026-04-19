@@ -9,9 +9,7 @@ class Synchronized {
     public static void main(String args[]) {
 
         Synchronized obj = new Synchronized();
-        Thread t1 = new Thread(() -> {obj.incrementCounter();});;
-
-        // Without braces — cleaner
+        Thread t1 = new Thread(() -> obj.incrementCounter());
         Thread t2 = new Thread(() -> obj.incrementCounter());
 
         t1.start();
