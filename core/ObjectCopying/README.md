@@ -1,14 +1,19 @@
-# TODO: Refine this: Object Copying strategies in Java:
+# Object Copying strategies in Java:
 
 
 ## Shallow copy:
 
-Copying an object such that only the top level is copied into a new container while complex nested objects still point to the same underlying object is called as Shallow copy
+Copying an object such that only the top level is copied into a new container while complex nested objects still point to the same underlying object is called a Shallow copy
 
+> Risk: Modifying a nested object in the copy will also change it in the original object.
+
+[ShallowCopy Example](./ShallowCopy/ShallowCopy.java)
 
 ## Deep copy:
 
-Copying an object recursively such that both the top level objects and the nested objects within are copied recursively is called as Deep copy
+Copying an object recursively such that both the top level objects and the nested objects within are copied recursively is called a Deep copy
+
+> Benefit: Complete isolation. Changes made to the copy will never affect the original.
 
 [Deepcopy Example](./DeepCopy/DeepCopy.java)
 

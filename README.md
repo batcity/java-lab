@@ -69,8 +69,8 @@ Each feature has its own folder with a code file and README explaining the conce
   - [False Sharing](./JvmAndMemory/FalseSharing/README.md)
 
 ### Core Java – Object Copying
-- [Shallow Copy](./core/ObjectCopying/ShallowCopy/README.md)
-- [Deep Copy](./core/ObjectCopying/DeepCopy/README.md)
+- [Shallow Copy](./core/ObjectCopying/README.md)
+- [Deep Copy](./core/ObjectCopying/README.md)
 
 ### Basics:
 
